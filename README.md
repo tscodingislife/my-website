@@ -9,6 +9,8 @@ http://www.initializr.com/builder
 
 Please note that the content of this particular archive is not relevant because no "module" have been added to it, but you'll understand that in a minute.
 
+Testing some changes
+
 If you add a ?print parameter, it will display the content of the archive without downloading it:
 
 http://www.initializr.com/builder?print
